@@ -1,0 +1,8 @@
+-- =============================================================================
+-- 01 — SCHEMA SETUP
+-- Script:      01_schema_setup.sql
+-- Description: Defines the database schemas and table structures used throughout
+--              the project, including data types, keys, and table relationships.
+-- Target DB:   PostgreSQL 16
+-- Author:      J.B. Lawrence
+-- =============================================================================

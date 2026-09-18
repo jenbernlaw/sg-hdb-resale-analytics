@@ -1,0 +1,9 @@
+-- =============================================================================
+-- 04 — ANALYTICAL VIEWS
+-- Script:      04_analytical_views.sql
+-- Description: Creates reusable, analysis-ready views by combining cleaned
+--              data with calculated fields, business logic, joins, and
+--              aggregated metrics.
+-- Target DB:   PostgreSQL 16
+-- Author:      J.B. Lawrence
+-- =============================================================================

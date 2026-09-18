@@ -1,0 +1,9 @@
+-- =============================================================================
+-- 03 — DATA CLEANING
+-- Script:      03_data_cleaning.sql
+-- Description: Cleans and standardizes ingested data by addressing missing
+--              values, duplicates, inconsistent formats, invalid records,
+--              and data type issues.
+-- Target DB:   PostgreSQL 16
+-- Author:      J.B. Lawrence
+-- =============================================================================

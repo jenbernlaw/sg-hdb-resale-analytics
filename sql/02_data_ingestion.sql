@@ -1,0 +1,8 @@
+-- =============================================================================
+-- 02 — DATA INGESTION
+-- Script:      02_data_ingestion.sql
+-- Description: Loads raw source data into the database and organizes it into
+--              staging tables for downstream processing.
+-- Target DB:   PostgreSQL 16
+-- Author:      J.B. Lawrence
+-- =============================================================================

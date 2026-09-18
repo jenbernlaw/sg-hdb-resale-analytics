@@ -1,0 +1,9 @@
+-- =============================================================================
+-- 05 — EXPLORATORY ANALYSIS
+-- Script:      05_exploratory_analysis.sql
+-- Description: Explores prepared data to examine market trends, 
+--              pricing distributions, location premiums,
+--              and key housing indicators
+-- Target DB:   PostgreSQL 16
+-- Author:      J.B. Lawrence
+-- =============================================================================
