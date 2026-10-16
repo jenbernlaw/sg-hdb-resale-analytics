@@ -7,7 +7,7 @@
 -- Author:      J.B. Lawrence
 -- =============================================================================
 
--- Database and Schema Setup for Data.gov.sg HDB Resale Dataset (2015–Present)
+-- 1. Database and Schema Setup for Data.gov.sg HDB Resale Dataset (2015–Present)
 
 CREATE SCHEMA IF NOT EXISTS raw;
 CREATE SCHEMA IF NOT EXISTS staging;
